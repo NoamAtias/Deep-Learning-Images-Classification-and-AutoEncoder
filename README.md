@@ -1,6 +1,4 @@
-Sure! Here's a template for a Readme file for your deep learning final project on GitHub:
-
-# Deep Learning Final Project
+# Deep Learning Final Project - Images Classification and AutoEncoder
 
 This repository contains the code and documentation for my final project on deep learning. The project focuses on two main parts: image classification using convolutional neural networks (CNNs) and denoising images using convolutional autoencoders.
 
