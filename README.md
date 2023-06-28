@@ -47,18 +47,11 @@ To use the code in this repository, follow these steps:
 1. Clone the repository: `git clone https://github.com/NoamAtias/Deep-Learning-Images-Classification-and-AutoEncodergit`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the image classification or denoising scripts: `python classification.py` or `python denoising.py`
-4. Explore the results and modify the code as needed for your own experiments.
+4. Explore the results and modify the code as needed for your experiments.
 
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use the code and adapt it for your own purposes.
-
-For more information, please refer to the [License](LICENSE) file.
-
 ---
 
 Feel free to customize the Readme file according to your specific project details, such as adding a section on dataset description, training process, or evaluation results.
