@@ -14,7 +14,6 @@ This repository contains the code and documentation for my final project on deep
   - [Denoising Images](#denoising-images)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
