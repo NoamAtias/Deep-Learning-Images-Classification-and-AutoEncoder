@@ -43,7 +43,7 @@ To evaluate the performance of our convolutional autoencoder, we introduced nois
 
 To use the code in this repository, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/NoamAtias/Deep-Learning-Images-Classification-and-AutoEncodergit`
+1. Clone the repository: `git clone https://github.com/NoamAtias/Images-Classification-and-AutoEncoder.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the image classification or denoising scripts: `python classification.py` or `python denoising.py`
 4. Explore the results and modify the code as needed for your experiments.
